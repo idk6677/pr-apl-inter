@@ -1,0 +1,66 @@
+body{
+    font-family: Cambria, sans-serif;
+}
+
+#baner{
+    background-color: #829EB9;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+#stopka{
+    background-color: #829EB9;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+#lewy{
+    background-color: #B3C6D9;
+    height: 400px;
+    width: 25%;
+    padding-top: 100px;
+    float: left;
+}
+
+#środkowy{
+    background-color: #E0E9F1;
+    height: 400px;
+    width: 50%;
+    text-align: center;
+    padding-top: 100px;
+    float: left;
+}
+
+#prawy{
+    background-color: #B3C6D9;
+    height: 400px;
+    width: 25%;
+    padding-top: 100px;
+    float: right;
+}
+
+table{
+    border: 1px solid DimGray;
+    width: 80%;
+    margin: auto;
+    border-collapse: collapse;
+}
+th{
+    border: 1px solid DimGray;
+    border-collapse: collapse;
+}
+td{
+    border: 1px solid DimGray;
+    border-collapse: collapse;
+}
+td:hover{
+    background-color: SteelBlue;
+    color: white;
+}
+
+img{
+    width: 100%;
+    border-radius: 20px;
+}
