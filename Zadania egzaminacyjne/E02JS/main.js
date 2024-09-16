@@ -1,4 +1,5 @@
 const metry = document.querySelector('#m')
+const wynik = document.querySelector('#wynik');
 const btn = document.querySelector('button')
 
 btn.addEventListener('click', function (){
