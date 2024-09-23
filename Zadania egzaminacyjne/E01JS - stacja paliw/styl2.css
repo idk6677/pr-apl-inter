@@ -49,6 +49,11 @@ a{
 table{
     border: 1px solid OliveDrab;
     width: 90%;
+    text-align: center;
+}
+
+td{
+    border: 1px solid OliveDrab;
 }
 
 #stopka{
